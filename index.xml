@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Love Kush Portfolio</title>
+    <link>http://lovekushpranu.github.io/</link>
+    <description>Recent content on Love Kush Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Aug 2023 07:28:51 +0530</lastBuildDate><atom:link href="http://lovekushpranu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Attempt at making a Static site using Hugo</title>
+      <link>http://lovekushpranu.github.io/posts/myposts/</link>
+      <pubDate>Wed, 02 Aug 2023 07:28:51 +0530</pubDate>
+      
+      <guid>http://lovekushpranu.github.io/posts/myposts/</guid>
+      <description>I did it :D
+fn main{ println!(&amp;#34;Helloworld&amp;#34;); } </description>
+    </item>
+    
+  </channel>
+</rss>
