@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Love Kush Pranu</title>
-    <link>https://lovekushpranu.github.io/</link>
+    <link>https://lutherleo.github.io/</link>
     <description>Recent content on Love Kush Pranu</description>
     <image>
       <title>Love Kush Pranu</title>
-      <url>https://lovekushpranu.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://lovekushpranu.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://lutherleo.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://lutherleo.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://lovekushpranu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://lutherleo.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
